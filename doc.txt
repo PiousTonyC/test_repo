@@ -1,1 +1,3 @@
-Hello this is initial line 
+Hello this is initial line .
+
+This line was added from branch1.
